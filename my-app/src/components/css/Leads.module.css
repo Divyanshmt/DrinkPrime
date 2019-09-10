@@ -1,0 +1,57 @@
+.wrapper {
+    background-color: #f1f1f1;
+    height: 96vh;
+}
+
+.leadsContainer {
+    padding-top: 20px;
+    padding-left: 20px;
+}
+
+.leadsContainer>header {
+    font-size: 23px;
+}
+
+.quantityFilter {
+    margin: 20px 0;
+}
+
+.quantityFilter>input {
+    width: 40px;
+}
+
+
+.leadtable {
+    display: table;
+    table-layout: fixed;
+    width: 100%;
+}
+
+.row,
+.rowHeader {
+    display: table-row;
+    border: 1px solid black;
+    width: 100%;
+}
+
+.rowHeader {
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.rowHeader > .item{
+    
+    color: black;
+}
+
+.item {
+    display: table-cell;
+    color: #64a5d1;
+    text-align: center;
+    padding: 20px;
+    border: 1px solid #e6e6e6;
+}
+
+.row:nth-child(2n) {
+    background-color: #ffffff;
+}

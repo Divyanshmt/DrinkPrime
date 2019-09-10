@@ -1,0 +1,11 @@
+.content {
+    display: flex;
+}
+
+.MainContent {
+    width: 100%;
+}
+
+.SideNav {
+    width: 30%;
+}

@@ -1,0 +1,11 @@
+.container {
+  position: relative;
+  height: 50px;
+  background: #64a5d1;
+  border: 1px solid #34739c;
+  font-size: 1.3em;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+

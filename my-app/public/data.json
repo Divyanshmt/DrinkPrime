@@ -1,0 +1,28 @@
+{
+    "leadList" :  [
+        {
+            "leadId": 587035310,
+            "name": "Divyansh",
+            "enquiryDate": "29-8-19",
+            "enquiryTime": "22:2:01",
+            "contact": "(676) 834-6985"
+        },
+
+        {
+            "leadId": 2777555831,
+            "name": "Diver",
+            "enquiryDate": "29-8-19",
+            "enquiryTime": "22:2:01",
+            "contact": "(715) 766-3065"
+        },
+
+        {
+            "leadId": 1913166303,
+            "name": "ramashankar",
+            "enquiryDate": "29-8-19",
+            "enquiryTime": "22:2:01",
+            "contact": "(876) 969-9012"
+        }
+
+    ]
+}

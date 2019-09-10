@@ -1,0 +1,61 @@
+
+.wrapper{
+    background-color: #f1f1f1;
+    height: 94vh;
+    box-sizing: border-box;
+}
+
+.container{
+    padding : 15px 20px;
+}
+
+
+.container>form{
+    height: 20vh;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+}
+
+header{
+    font-size: 23px;
+}
+
+
+input{
+    width: 80%;
+}
+
+.info{
+    display: flex;
+    flex-direction: column;
+}
+
+.info div  {
+    margin: 15px 0;
+
+}
+
+.addressContainer{
+    margin:15px 0px;
+}
+
+
+
+
+
+input[type = submit] {
+    background-color: #50b4f7;
+    height: 35px;
+    border: none ;
+    border-radius: 5px;
+    color: #ffffff;
+    width: 100px;
+    position: relative;
+    top:50px;
+}
+
+textarea {
+    height: 80px;
+    width: 80%;
+}
