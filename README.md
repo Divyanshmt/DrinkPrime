@@ -1,4 +1,4 @@
-# Sales-Lead-generator
+# Sales-Lead-generator (React)
 
 This app is used to create sales lead and to show the number of lead generated
 
